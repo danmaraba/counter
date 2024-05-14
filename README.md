@@ -5,7 +5,7 @@ Counter Project
 By Daniel Maraba
 
 ### Description
-This project is meant to increase, decrease and reset a counter when a user clicks the plus, minus and reset buttons respectively.
+This project is meant to increment, reduce and reset a counter when a user clicks the increase, decrease and reset buttons respectively.
 
 ## Project Set Up Instructions
 CTRL+ALT+T to open the terminal
