@@ -13,7 +13,7 @@ cd counter
 Use vscode to open it
 
 ## live link
-
+https://counter-beryl-nine.vercel.app/
 
 ## Technologies Used
 HTML
